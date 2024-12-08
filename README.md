@@ -106,10 +106,15 @@ else:
     
 ```
 ## Sample Input and Output
+1.
 ![Screenshot_8-12-2024_20237_lms2 ai saveetha in](https://github.com/user-attachments/assets/b4140570-b850-40c3-a89f-4e0081300863)
 
+
+2.
 ![image](https://github.com/user-attachments/assets/06415273-d191-4142-8b82-33be8b57ecab)
 
+
+3.
 ![Screenshot_8-12-2024_202414_lms2 ai saveetha in](https://github.com/user-attachments/assets/47d1f0dd-c883-49b6-b074-9af76e4b6a3b)
 
 
